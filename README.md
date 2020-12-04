@@ -9,4 +9,4 @@ Detecção de problemas que gerem ruídos
 
 Luciano Santos de Jesus, São Paulo, 2020
 
-![Protótipo do projeto]()
+
