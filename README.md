@@ -14,5 +14,6 @@ Detecção de problemas que gerem ruídos
 ![](https://user-images.githubusercontent.com/42394231/101193568-85c23600-363b-11eb-8897-3490080eca44.jpg)
 
 Luciano Santos de Jesus, São Paulo, 2020
+https://www.codeproject.com/Articles/LucianoSJ#Article
 
 
